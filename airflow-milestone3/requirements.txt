@@ -1,0 +1,6 @@
+scikit-learn
+dash
+scipy
+requests
+bs4
+json
